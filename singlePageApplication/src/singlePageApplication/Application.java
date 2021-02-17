@@ -115,8 +115,8 @@ class Print
 		System.out.println("\n"+"DESCRIPTION :-");
 		String d = scan.nextLine();
 		b.add(d);
-		System.out.println("SUCCESSFULLY POSTED ");
 		c.clc();
+		System.out.println("SUCCESSFULLY POSTED ");
 	}
 }
 class Application
